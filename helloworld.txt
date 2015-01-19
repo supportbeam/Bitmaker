@@ -1,0 +1,8 @@
+Git stuff
+
+git init
+
+untracked
+unstaged
+staged
+committed
